@@ -113,9 +113,3 @@ Database support (MySQL/PostgreSQL) instead of TXT file
 
 This project is open-source and available under the MIT License.
 
----
-
-✅ You can copy this whole thing, save it as `README.md`, and push to GitHub.  
-
-Do you also want me to create a **small GIF/diagram for the console output** so your README looks even cooler on GitHub?
-
